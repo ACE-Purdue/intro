@@ -1,4 +1,0 @@
-
-print("!!Ganapati Bappa Moraya!!")
-
-
