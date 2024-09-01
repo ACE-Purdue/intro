@@ -18,9 +18,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'ACE_Intro'
-copyright = '2024, Author'
-author = 'Author'
+project = 'ACE'
+copyright = 'Purdue University'
+author = 'CIT@Purdue'
 
 
 # -- General configuration ---------------------------------------------------
@@ -45,7 +45,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'furo'
-
+html_title = "Project ACE"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
