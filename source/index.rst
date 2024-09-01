@@ -10,8 +10,8 @@ AI and Cybersecurity Education for CyberInfrastructure: A Hands-on Approach
     intro/purdue_team
     intro/tuskegee_team
 
-Introduction Check:
-===================
+Introduction:
+=============
 CyberInfrastructure (CI) plays a vital role in today's scientific landscape.
 Investments in CI bring significant economic benefits across various sectors.
 However, the field faces three critical challenges: a lack of skilled professionals,
