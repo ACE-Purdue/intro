@@ -1,4 +1,0 @@
-Inside tutorial
-===============
-
-maddy

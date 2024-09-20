@@ -9,8 +9,8 @@ Dr. Fan Wu
 .. image:: ../../images/Prof_Fan_Wu.png
     :alt: Pic of Dr. Fan Wu
     :align: center
-    :height: 250
-    :width:  200
+    :height: 200
+    :width:  170
 
 
 Dr. Fan Wu is a Professor and Head of Computer Science, the
@@ -26,8 +26,8 @@ Dr. Mohammad Rahman
 .. image:: ../../images/Prof_Mohammad_Rahman.png
     :alt: Pic of Dr. Mohammad Rahman
     :align: center
-    :height: 250
-    :width:  200
+    :height: 200
+    :width:  170
 
 Dr. Rahman is an Assistant Professor of Computer Science at Tuskegee University. His research focuses on artificial
 intelligence, quantum computing, cloud security, and data science. He has developed and taught a broad range of
@@ -40,8 +40,8 @@ Dr. Baiyun Chen
 .. image:: ../../images/Prof_Baiyun_Chen.png
     :alt: Pic of Dr. Baiyun Chen
     :align: center
-    :height: 250
-    :width:  200
+    :height: 200
+    :width:  170
 
 Dr. Chen is an Assistant Professor of Computer Science at Tuskegee University. Her research focuses on artificial
 intelligence and machine learning. She has developed and taught artificial intelligence and machine learning courses
