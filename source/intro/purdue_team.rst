@@ -10,6 +10,7 @@ Dr. Baijian Yang
     :height: 200
     :width:  170
 
+
 Dr. Yang is a Professor of Computer and Information Technology at Purdue University and the Associate Dean for Research
 of Purdue Polytechnic Institute. He is an expert in CyberInfrastructure, cybersecurity, and machine learning. He has
 crafted practical teaching materials through NSF-funded CHEESEhub project. Additionally, he has created and taught the

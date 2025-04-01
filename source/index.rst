@@ -3,12 +3,19 @@ AI and Cybersecurity Education for CyberInfrastructure: A Hands-on Approach
 ===========================================================================
 
 .. toctree::
-    :hidden:
     :maxdepth: 2
     :caption: Know the team
 
     intro/purdue_team
     intro/tuskegee_team
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Resources
+
+    content/cloud-native/index
+    content/ai-cybersecurity/index
+
 
 Introduction:
 =============
