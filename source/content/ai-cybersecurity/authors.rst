@@ -2,7 +2,7 @@
 Authors
 #######
 
-This page lists the maintainers and contributors of the Cloud Native resources.
+This page lists the maintainers and contributors of the AI-Cybersecurity resources.
 
 Maintainers
 -----------
