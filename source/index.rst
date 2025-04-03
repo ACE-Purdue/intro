@@ -13,7 +13,7 @@ AI and Cybersecurity Education for CyberInfrastructure: A Hands-on Approach
     :maxdepth: 2
     :caption: Resources
 
-    content/cloud-native/index
+    content/cloud-computing/index
     content/ai-cybersecurity/index
 
 
