@@ -15,6 +15,11 @@ AI and Cybersecurity Education for CyberInfrastructure: A Hands-on Approach
 
     content/cloud-computing/index
     content/ai-cybersecurity/index
+    content/big_data/modules/intro
+    content/cybersecurity/modules/intro
+    content/hpc/modules/intro
+    content/llm/modules/intro
+    content/ml_for_security/modules/intro
 
 
 Introduction:
