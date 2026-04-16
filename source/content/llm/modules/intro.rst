@@ -9,3 +9,10 @@ Introduces the architecture, training, and use cases of large-scale models such 
 - Assess security and bias in LLM outputs.
 
 **Hands-on:** Prompt engineering, safety testing, and building domain-specific LLM applications.
+
+.. raw:: html
+
+   <video width="600" controls>
+     <source src="_static/UI.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
